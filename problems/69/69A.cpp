@@ -17,7 +17,7 @@ int main() {
        sy += y;
        sz += z;
    }
-   if(sx == 0 & sy == 0 & sz == 0){
+   if(sx == 0 && sy == 0 && sz == 0){
        cout << "YES";
    } else {
        cout << "NO";
