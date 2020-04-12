@@ -1,6 +1,10 @@
 cmake_minimum_required(VERSION 3.10)
 project(codeforces)
 
+add_executable(1339B problems/1339/1339B.cpp)
+add_executable(1339A problems/1339/1339A.cpp)
+
+
 add_executable(1334A problems/1334/1334A.cpp)
 add_executable(1334B problems/1334/1334B.cpp)
 add_executable(1334C problems/1334/1334C.cpp)
