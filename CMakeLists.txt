@@ -4,6 +4,8 @@ project(codeforces)
 add_executable(1339B problems/1339/1339B.cpp)
 add_executable(1339A problems/1339/1339A.cpp)
 
+add_executable(1338A problems/1338/1338A.cpp)
+add_executable(1338A_naive problems/1338/1338A_naive.cpp)
 
 add_executable(1334A problems/1334/1334A.cpp)
 add_executable(1334B problems/1334/1334B.cpp)
